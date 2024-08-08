@@ -1,0 +1,130 @@
+.navbar1{
+    /* background-image: url('./img/bgimg3.jpg'); */
+     /* background-size: cover; */
+    /* background: beige; */
+    margin-right: 10px;
+    margin-left: 10px;
+    /* text-align: center; */
+    padding:20px;
+    border-color: crimson;
+    /* border-radius: 10%; */
+    font-size: 20px;
+    background-color: skyblue;
+    color:rgb(102, 78, 206);
+   
+  }
+
+   
+  
+   .navbar-brand{
+    padding-top: 40px;
+   }
+   
+   
+  .link1{
+    text-decoration: none;
+    font-weight: 700;
+  }
+  .nbutton{
+    padding: 6px;
+    border-radius: 8px;
+    margin-top: 8px;
+    border-color: rgb(87, 85, 90);
+  }
+  .nbutton textarea{
+    padding: 6px;
+    border-radius: 8px;
+    margin-top: 8px;
+  }
+   
+   
+  .searchtop{
+    padding: 8px;
+  text-align: center;
+  border-radius: 10px;
+  border-color: rgb(89, 91, 218);
+  margin-right: 10px;
+  width: 60%;
+  margin-left: 20%;
+  color: rgb(12, 12, 12);
+  font-weight: 700;
+   
+   
+  }
+  .submittop{
+    padding: 3px;
+    border-radius: 5px;
+    border-color: rgb(59, 59, 102);
+   font-weight: 500;
+   
+  }
+  .headingtop,h1{
+     /* background-image: url('./img/bgimg3.jpg');  */
+     /* background-size: cover; */
+    color: rgb(24, 10, 61);
+    text-align: center;
+    font-weight: 800;
+    
+    margin-top: 10px;
+  }
+
+  .articletop,h2{
+   
+   
+    /* color:black; */
+    
+    font-weight: 400;
+    font-style: normal;
+    text-decoration:none;
+    text-align: center;
+    list-style-type: none;
+    border-radius: 20px;
+    background: transparent ;
+  }
+    .articletop, ul{
+      /* background-image: url('./img/bgimg3.jpg'); */
+     /* background-size: cover; */
+    }
+   
+     
+   
+   
+  .bottom button{
+    padding: 8px;
+    padding: 3px;
+    border-radius: 5px;
+    border-color: rgb(59, 59, 102);
+   font-weight: 500;
+   margin-left: 10px;
+   margin-right: 10px;
+   /* text-align: center; */
+  }
+   
+  .bottom{
+    
+    text-align: center;
+    color: rgb(41, 9, 71);
+    font-weight: 600;
+    padding: 10px;
+   
+    /* margin-left: 10px; */
+  }
+  .articleimg{
+    border-radius: 100px;
+    border-color: blue;
+    box-shadow: 2px blue;
+  }
+  .articletop p{
+    color:black;
+    /* font-weight: 700; */
+  }
+  /* .f1{
+    background-color: blue;
+  } */
+   .bb{
+    background-color: crimson;
+   }
+   .container-fluid{
+    /* background-image: url('./img/flower\ 7.jpg'); */
+    background-size: cover;
+   }
